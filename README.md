@@ -1,0 +1,2 @@
+# novel
+chat gpt novel
